@@ -23,5 +23,5 @@ fauxton:
   command:
     - sh
     - "-c"
-    - "fauxton -c http://$DB_PORT_5984_TCP_ADDR:$DB_PORT_5984_TCP_PORT"
+    - "fauxton -c http://%YOU_REMOTE_ADDR%:5984"
 ```
