@@ -1,5 +1,5 @@
 # docker-fauxton
-Docker for Fauxton - Web UI for CouchDB
+Docker for [Fauxton](https://github.com/apache/couchdb-fauxton) - Web UI for CouchDB
 
 # RUN
 ```bash
