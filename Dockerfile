@@ -1,4 +1,4 @@
-FROM node:7.10.0
+FROM node:8.1.3
 MAINTAINER docker-fauxton@3apaxi.com
 ENV FAUXTON_VERSION=1.1.12
 
